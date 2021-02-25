@@ -5,9 +5,16 @@
 ## 目录
 
 - [java相关](java/index)
+- [git相关](git/index)
 - python相关
 - nodejs相关
 - windows相关
 - linux相关
 - sas相关
+
+### 注意事项
+ * mkdocs 私服上部署的步骤：
+   
+       1.需要先拉去master分支
+       2.mkdocs gh-deploy构建静态页面并发布到gh-pages分支上
 
