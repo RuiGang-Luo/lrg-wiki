@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# *Welcome to LRG-Docs*
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+**随着工作时间的增长，遇到的问题逐渐增多，需要学习的东西以及已经学习的知识也不断的积累，留下一些随笔，可以帮助我们恢复已经蒙尘的记忆。**
 
-## Commands
+## 目录
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+- [java相关](java/index)
+- python相关
+- nodejs相关
+- windows相关
+- linux相关
+- sas相关
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
